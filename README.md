@@ -1,4 +1,4 @@
-# =*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*= Linux System Stats =*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+# Linux System Stats
 # An assignment for CSCB09
 Program Usage
 ===================================
