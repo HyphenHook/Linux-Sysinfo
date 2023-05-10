@@ -1,5 +1,11 @@
 # Linux System Stats
 # An assignment for CSCB09
+Basic Information
+===================================
+This is a generic Linux system information reporting application developed with C.
+It is fully tested on a regular Ubuntu system.
+It concurrently fetches information spread over a set interval between each sample. (sample and intervals are specified on command line)
+
 Program Usage
 ===================================
 1) If there is no compiled file (no .exe or .out file) then please open terminal and navigate to the directory where you found this README file and execute in the terminal
